@@ -1,0 +1,25 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "1.0.2",
+    "body-parser": "1.17.1",
+    "consolidate": "0.14.5",
+    "cookie-parser": "1.4.3",
+    "cookie-session": "2.0.0-beta.1",
+    "express": "4.15.2",
+    "handlebars": "4.0.6",
+    "mysql": "2.13.0",
+    "passport": "0.3.2",
+    "passport-local": "1.0.0",
+    "path": "0.12.7",
+    "request": "2.81.0"
+  }
+}
